@@ -3,7 +3,7 @@
 This is a personal project to access and view my Pinterest boards using the Pinterest API.
 
 ## Privacy
-View our [Privacy Policy](privacy.html)
+View our [Privacy Policy](https://hannahhiggs.github.io/pintrest-analytics/privacy)
 
 ## Purpose
 This application is for personal use only to:
